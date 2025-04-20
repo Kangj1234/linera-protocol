@@ -1,4 +1,5 @@
-name: Rust
+name: Linera
+nano README.md
 
 on:
   push:
